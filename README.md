@@ -46,7 +46,7 @@ The analysis uses pizza sales data containing information about:
 
 - **SQL** - Data extraction and analysis
 - **Excel/Python** - Data visualization and reporting
-- **Database Management System** - MySQL/PostgreSQL/SQL Server
+- **Database Management System** - MySQL Server
 
 ## 📈 Key Insights
 
